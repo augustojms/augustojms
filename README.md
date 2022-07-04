@@ -6,7 +6,7 @@
 - 👋meu Gmail de contato 
 augusto.marcilio@escola.pr.gov.br
 - 👀 eu estou interessadao  em aprender a programar  novas  línguagens 
-- 🌱 atualmente estou  aprendendo a programar  recentemente a linguagem de JavaScry e pong 
+  ### Estou aprendendo
 
-
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 
